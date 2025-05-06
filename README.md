@@ -56,3 +56,6 @@ O **Canivete Suíço Python** é uma ferramenta multifuncional de linha de coman
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu_usuario/canivete-suico-python.git
+cd canivete-suico-python
+pip install rich pyperclip qrcode[pil] psutil
+
